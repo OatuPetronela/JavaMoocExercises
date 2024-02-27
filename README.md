@@ -1,6 +1,6 @@
 # JavaMoocExercises
 
-Solutions of java programming I and II MOOC 2023 of the University of Helsinki
+Solutions of java programming I and II MOOC 2024 of the University of Helsinki
 
 Course: https://java-programming.mooc.fi/
 
