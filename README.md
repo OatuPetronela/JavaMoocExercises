@@ -4,4 +4,6 @@ Solutions of java programming I and II MOOC 2024 of the University of Helsinki
 
 Course: https://java-programming.mooc.fi/
 
-Some parts may be partly completed.
+## Note
+
+This repository contains solutions starting from Part 5 of the course.
